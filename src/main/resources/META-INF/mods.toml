@@ -1,0 +1,15 @@
+modLoader="javafml" #mandatory
+loaderVersion="[44,)" #mandatory
+license="All rights reserved"
+[[mods]] #mandatory
+modId="compassplus" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Compass Plus" #mandatory
+# A file name (in the root of the mod JAR) containing a logo for display
+logoFile="examplemod.png" #optional
+credits="Java script" #optional
+authors="Love, Cheese and small house plants" #optional
+description="c o m p a s s"
+    versionRange="[1.19.3,1.20)"
+    ordering="NONE"
+    side="BOTH"
